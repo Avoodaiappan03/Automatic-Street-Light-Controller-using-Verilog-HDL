@@ -87,8 +87,7 @@ The following test cases are verified:
 * The street light turns OFF during daylight.
 * The output changes according to the sensor input.
 * The simulation output matches the expected behavior.
-  ![Automatic Street Light Controller Waveform](images/waveform_result.png)
-
+![Automatic Street Light Controller Waveform](images/waveform_result.png)
 ## ▶️ How to Run the Project
 
 1. Open [EDA Playground](https://www.edaplayground.com/).
